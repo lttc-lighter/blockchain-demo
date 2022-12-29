@@ -15,5 +15,8 @@
 	"Tx": "Tx",
 	"$": "$",
 	"From": "From",
-	"Coinbase Transactions": "Coinbase Transactions"
+	"Coinbase Transactions": "Coinbase Transactions",
+	"Transactions": "Transactions",
+	"Where is the money coming from": "Where is the money coming from",
+	"Where is the money coming from?": "Where is the money coming from?"
 }
